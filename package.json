@@ -19,7 +19,7 @@
     "turbo": "./turbow.sh"
   },
   "devDependencies": {
-    "prettier": "^2.5.0",
+    "prettier": "^2.5.1",
     "simple-git-hooks": "^2.7.0"
   },
   "lint-staged": {
